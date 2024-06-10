@@ -45,6 +45,7 @@
 		C21C8AC02C133D1900B6DB7E /* iOS-TemplateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS-TemplateUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C21C8AC42C133D1900B6DB7E /* iOS_TemplateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_TemplateUITests.swift; sourceTree = "<group>"; };
 		C21C8AC62C133D1900B6DB7E /* iOS_TemplateUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_TemplateUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C2BF6B662C167B6F007A5640 /* iOS-Template.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = "iOS-Template.xctestplan"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		C21C8A9C2C133D1600B6DB7E = {
 			isa = PBXGroup;
 			children = (
+				C2BF6B662C167B6F007A5640 /* iOS-Template.xctestplan */,
 				C21C8AA72C133D1600B6DB7E /* iOS-Template */,
 				C21C8AB92C133D1900B6DB7E /* iOS-TemplateTests */,
 				C21C8AC32C133D1900B6DB7E /* iOS-TemplateUITests */,

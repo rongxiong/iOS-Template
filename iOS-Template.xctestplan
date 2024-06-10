@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "2863A063-A796-460B-BF62-4F4EC556FE78",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:iOS-Template.xcodeproj",
+      "identifier" : "C21C8AA42C133D1600B6DB7E",
+      "name" : "iOS-Template"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:iOS-Template.xcodeproj",
+        "identifier" : "C21C8AB52C133D1900B6DB7E",
+        "name" : "iOS-TemplateTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:iOS-Template.xcodeproj",
+        "identifier" : "C21C8ABF2C133D1900B6DB7E",
+        "name" : "iOS-TemplateUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
